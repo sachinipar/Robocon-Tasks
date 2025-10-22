@@ -1,0 +1,5 @@
+train: C:/Users/lokha/OneDrive/Pictures/robocondataset/train1
+val:   C:/Users/lokha/OneDrive/Pictures/robocondataset/validation1
+
+nc: 3
+names: [R1_real, R2_fake, R2_real]
