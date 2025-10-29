@@ -10,7 +10,7 @@ CW = 15
 XW = 20
 SP = SZ // 4
 
-BG = (28, 170, 156) #random colors idk
+BG = (28, 170, 156) #random numebr colors idk
 LN = (123, 145, 115)
 OC = (219, 31, 220)
 XC = (166, 96, 46)
